@@ -38,25 +38,25 @@ All buttons use `INPUT_PULLUP`. One side to 5V, other side to pin.
 ### **Coding Notes**
 To get the code;
 
-   1.Click the `<>Code` button on top.
+   1. Click the `<>Code` button on top.
 
-   2.Click the `Download ZIP` button(The ZIP file will download).
+   2. Click the `Download ZIP` button(The ZIP file will download).
    
-   3.Open the downloaded ZIP file(DOOM_Arduino).
+   3. Open the downloaded ZIP file(DOOM_Arduino).
    
-   4.Select the folder DOOM_Arduino.
+   4. Select the folder DOOM_Arduino.
 
-   5.Press the `Extract To` button.
+   5. Press the `Extract To` button.
 
-   6.Select the place where you want to move it.
+   6. Select the place where you want to move it.
 
-   7.Press the `OK` button.
+   7. Press the `OK` button.
 
-   8.Open the folder(DOOM_Arduino) in the `File Explorer`.
+   8. Open the folder(DOOM_Arduino) in the `File Explorer`.
 
-   9.Open the file `DOOM_Arduino.ino`.
-
-   10.Upload the code.
+   9. Open the file `DOOM_Arduino.ino`.
+ 
+   10. Upload the code.
 
 ### **NOTES**
 - There are another files in the folder, Don't move or delete them(If you move or delete them Arduino IDE will show error massages).
