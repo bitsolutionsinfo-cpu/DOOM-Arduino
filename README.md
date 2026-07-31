@@ -29,7 +29,7 @@ All buttons use `INPUT_PULLUP`. One side to 5V, other side to pin.
 
 ### **Controls**
 `D2-D5` = Move / Look  
-`D6` = FIRE / Open Door
+`D6` = FIRE 
 
 ### **Libraries Needed**
 1. `Adafruit GFX Library`
@@ -41,5 +41,4 @@ Sound effects are generated with `tone()` on pin 9.
 
 ### **Credits**
 Find my other projects from: https://sites.google.com/view/codeandcirkit?usp=sharing
-
 Built by: Thiyon(Code&Cirkit)
