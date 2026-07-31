@@ -60,6 +60,7 @@ To get the code;
 
 ### **NOTES**
 - There are another files in the folder, Don't move or delete them(If you move or delete them Arduino IDE will show error massages).
+  
 -The wiring diagram below.
 
 ### **Credits**
