@@ -67,3 +67,7 @@ To get the code;
 Find my other projects from: https://sites.google.com/view/codeandcirkit?usp=sharing
 
 Built by: Thiyon(Code&Cirkit)
+
+### **WIRING** 
+### **Wiring Diagram**
+![Arduino DOOM Wiring](wiring.png)
