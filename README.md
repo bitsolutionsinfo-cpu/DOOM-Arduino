@@ -1,8 +1,6 @@
 # Arduino-DOOM
 DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 
-"it runs DOOM" - on 2KB of RAM
-
 ### **Parts**
 - **Board**: Arduino UNO R3 
 - **Display**: 0.96" SSD1306 OLED 128x64 I2C
@@ -24,12 +22,6 @@ DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 | **Button FIRE** | D6 |
 | **Buzzer +** | D9 |
 | **Buzzer -** | GND |
-
-All buttons use `INPUT_PULLUP`. One side to 5V, other side to pin.
-
-### **Controls**
-`D2-D5` = Move / Look  
-`D6` = FIRE 
 
 ### **Libraries Needed**
 1. `Adafruit GFX Library`
