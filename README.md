@@ -1,4 +1,4 @@
-# DOOM-Arduino
+# Arduino-DOOM
 DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 
 ### **Parts**
@@ -6,7 +6,7 @@ DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 - **Display**: 0.96" SSD1306 OLED 128x64 I2C
 - **Controls**: 5x Push Buttons - Movement + Fire
 - **Audio**: Passive Buzzer for SFX
-- **FPS**: ~4-8 FPS
+- **FPS**: 14 FPS
 
 ### **Wiring**
 | Component | Arduino Pin |
@@ -15,7 +15,7 @@ DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 | **OLED VCC** | 5V |
 | **OLED SDA** | A4 |
 | **OLED SCL** | A5 |
-| **Button Up** | D2 |
+| **Button Up** | D8 |
 | **Button Down** | D3 |
 | **Button Left** | D4 |
 | **Button Right** | D5 |
@@ -52,7 +52,11 @@ To get the code;
 
 ### **Notes**
 - There are another files in the folder, Don't move or delete them(If you move or delete them Arduino IDE will show error massages).
-  
+
+- When uploaded, Arduino IDE will say "Sketch uses 20076 bytes (62%) of program storage space. Maximum is 32256 bytes.
+Global variables use 1863 bytes (90%) of dynamic memory, leaving 185 bytes for local variables. Maximum is 2048 bytes.
+Low memory available, stability problems may occur."
+
 - The wiring diagram below.
 
 ### **Credits**
