@@ -5,8 +5,7 @@ DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 - **Board**: Arduino UNO R3 
 - **Display**: 0.96" SSD1306 OLED 128x64 I2C
 - **Controls**: 5x Push Buttons - Movement + Fire
-- **Audio**: Passive Buzzer for SFX
-- **FPS**: 14 FPS
+- **Audio**: Passive Buzzer 
 
 ### **Wiring**
 | Component | Arduino Pin |
