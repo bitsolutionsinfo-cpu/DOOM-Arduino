@@ -1,4 +1,4 @@
-# Arduino-DOOM
+# DOOM-Arduino
 DOOM running on an Arduino UNO R3 + 0.96" OLED + 5 Buttons + Buzzer
 
 ### **Parts**
